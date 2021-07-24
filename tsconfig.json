@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "pretty": true,
+        "outDir": "./build"
+    },
+
+    "files": [
+        "bankCustomer.ts"
+        //"assert.d.ts"
+    ],
+
+    "exclude": [
+        "node_modules"
+    ]
+}
